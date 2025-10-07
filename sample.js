@@ -1,2 +1,1 @@
-hello kurt!
-sad
+helsslo kurt!
